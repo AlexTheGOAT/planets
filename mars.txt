@@ -3,4 +3,6 @@ just kidding!
 
 Hey look! we're making crazy changes to this text file again!
 
-lets add another thing to the text file!
+
+
+Theres another thing added after deleting something else!
